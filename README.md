@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer and cloud ent
 
 Here are a few of my projects:
 
-### [Is A Web App]([https://github.com/tonyliucloud/project1](https://github.com/isawebapp))
+### [Is A Web App](https://github.com/isawebapp)
 - **Description:** Multiple web app and network tools online.
 - **Tech Stack:** JavaScript, React, Node.js, Python, MySQL
 
-### [My Debriefer](https://github.com/mydebriefer))
+### [My Debriefer](https://github.com/mydebriefer)
 - **Description:** Your tailored global news feed, powered by AI-driven summaries for a seamless, personalized news experience.
 - **Tech Stack:** JavaScript, React, Node.js, Python, MongoDB
   
