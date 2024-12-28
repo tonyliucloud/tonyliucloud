@@ -18,7 +18,7 @@ Here are a few of my projects:
 - **Description:** Multiple web app and network tools online.
 - **Tech Stack:** JavaScript, React, Node.js, Python, MySQL
 
-### [My Debriefer][(https://github.com/tonyliucloud/project2](https://github.com/mydebriefer))
+### [My Debriefer](https://github.com/mydebriefer))
 - **Description:** Your tailored global news feed, powered by AI-driven summaries for a seamless, personalized news experience.
 - **Tech Stack:** JavaScript, React, Node.js, Python, MongoDB
   
