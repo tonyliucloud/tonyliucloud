@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **fullstack** developer and cloud enthusiast. Here you'll find a variety of projects that I've worked on, ranging from cloud computing solutions to open-source contributions. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
-[Portfolio](https://tonyliu.cloud)
+## [Portfolio](https://tonyliu.cloud)
 
 ## 🛠️ Technologies & Tools
 
